@@ -1,2 +1,3 @@
-# basic whatsapp chat analysis
- Analyze any WhatsApp chat export with ease! 
+# Basic WhatsApp Chat Analysis
+
+Very basic text analysis using Python.  
