@@ -1,0 +1,5 @@
+emoji==2.12.1
+matplotlib==3.8.3
+nltk==3.8.1
+textblob==0.18.0.post0
+wordcloud==1.9.3
